@@ -1,0 +1,69 @@
+.logo
+{
+	position: absolute;
+	margin: 10px;
+}
+.menu
+{
+	position: absolute;
+	left: 730px;
+	width: 860px;
+	height: 100px;
+	text-align: center;
+	padding-top: 10px;
+}
+.pilkarze
+{
+	position: absolute;
+	left: 580px;
+	width: 150px;
+	height: 780px;
+	text-align: center;
+	padding-top: 10px;
+}
+.miejsce
+{
+	position: absolute;
+	left:730px;
+	top: 100px;
+	width: 860px;
+	height: 780px;
+}
+.wazne
+{
+	background-color: red;
+	font-family: fantasy;
+}
+.tlo
+{
+	background-image: url(foto\polska.png);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.rozmiar
+{
+	height: 200px;
+}
+span
+{
+	word-spacing: 30px;
+}
+body
+{
+	margin: 0px;
+}
+ul
+{
+	list-style-type: square;
+}
+table
+{
+	border-width: 3px;
+	border-style: solid;
+	border-color: red;
+}
+td
+{
+	border-width: 3px;
+	border-style: solid;
+}
